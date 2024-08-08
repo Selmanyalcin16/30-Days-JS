@@ -9,3 +9,4 @@ console.log(now);
 console.log(now.getDate());
 console.log(now.getHours());
 console.log(now.getFullYear());
+console.log(now.getTime());
